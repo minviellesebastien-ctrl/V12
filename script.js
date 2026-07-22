@@ -18,7 +18,7 @@ const DEFAULT_ACCOUNTS = [
   { icon: "livret-a", name: "LCL - Livret A", amount: 26003.44 },
   { icon: "ldd", name: "LCL - LDD", amount: 12747.87 },
   { icon: "lep", name: "LCL - LEP", amount: 10856.51 },
-  { icon: "assurance-vie", name: "LINXEA - Fonds", amount: 20334.56 },
+  { icon: "assurance-vie", name: "LINXEA - Avenir 2", amount: 20334.56 },
   { icon: "msci", name: "LINXEA - MSCI", amount: 5589.54 },
   { icon: "per", name: "LINXEA - PER", amount: 10017.55 }
 ];
