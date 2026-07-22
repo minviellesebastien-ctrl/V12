@@ -152,7 +152,7 @@ const FONDS_EURO_DETAILS_KEY = "avenir-fonds-euro-details-v1";
 const DEFAULT_FONDS_EURO_DETAILS = {
   openingDate: "02/02/26",
   insurer: "Linxea - Suravenir",
-  support: "Fonds en euros Suravenir Opportunité 2",
+  support: "Fonds euros Suravenir Opportunité 2",
   about: "Un support sécurisé de l’assurance vie, destiné à préserver le capital tout en générant des intérêts. Mensualités 200/mois."
 };
 
